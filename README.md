@@ -78,6 +78,7 @@ Já a **Loja 4** se mostrou promissora pela ótima avaliação dos clientes, mas
 ## 📁 Organização do Projeto
 ├── loja_1.csv ├── loja_2.csv ├── loja_3.csv ├── loja_4.csv ├── analise_lojas.ipynb ├── README.md └── graficos/
 
+
 ## ✨ Aprendizados
 
 Durante este projeto, foram aplicadas habilidades como:
